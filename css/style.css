@@ -9575,6 +9575,7 @@ h4, h5, h6 {
 
 .product-img,
 .gallery-item {
+
   position: relative;
   overflow: hidden;
 }
@@ -9611,7 +9612,7 @@ h4, h5, h6 {
 }
 
 .bg-gallery {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/gallery.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0,0,0, 0.3), rgba(200, 200, 200, 0.7)), url(../IMG_7639.JPG), no-repeat center center;
   background-size: cover;
 }
 
